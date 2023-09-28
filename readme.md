@@ -1,3 +1,4 @@
-### sample file for GCP-devops-project ###
+##Docker application
 
-##First line ##
+- Java application
+- deployed in GKE
